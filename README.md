@@ -74,10 +74,7 @@
 ## Example Output
 
 ```json
-{
-  "Count": 5,
-  "Dist": 45
-}
+{"Count": 5, "Dist": 45}
 ```
 - `Count`: Total number of objects detected.
 - `Dist`: Current distance to the object in cm.
